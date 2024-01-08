@@ -108,6 +108,8 @@ main{
 }  
 
 
+
+
 .btn-primary{
   color: #FFF;
   font-family: Inter;
@@ -119,9 +121,61 @@ main{
   background: transparent;
   border: none;
 }
- section{
-  display: inline-block;
- }
+.welcome-heading{
+  width: 393px;
+}
+
+/* new offer  */
+
+
+.welcom-grope{
+  /* max-width: 1320; */
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  align-items: center;
+  gap: 50px;
+  margin-top: 80px;
+}
+.welcome-year{
+  color: #F00;
+  font-size: 48px;
+}
+.welcome-heading{
+  color: #F00;
+  font-size: 24px;
+}
+
+.circle-1{
+  height: 420px;
+  width: 420px;
+  border: 10px solid #F00;
+  border-radius: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.welcome-heading h2 {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  text-transform: capitalize;
+}
+.welcome-heading p{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  line-height: 32px
+}
+.welcome-image{
+  margin-top: 20px;
+}
+
+
+
+
+
+
 
 
 .portfelo-imag{

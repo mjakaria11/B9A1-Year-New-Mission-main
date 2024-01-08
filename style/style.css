@@ -147,10 +147,10 @@ main{
 }
 
 .circle-1{
-  height: 420px;
-  width: 420px;
-  border: 10px solid #F00;
-  border-radius: 400px;
+  height: 460px;
+  width: 460px;
+  border: 15px solid #F00;
+  border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;

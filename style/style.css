@@ -14,18 +14,23 @@ header{
   margin: 0px auto;
   margin-top: 40px;
 }
-.banner-image{
+.banar-image{
   position: relative;
 }
-.banner-card img{
+
+.banar-image img{
   max-width: 100%;
   height: auto;
+  margin-top: 90px;
 }
-.banar-title {
+.banar-title{
   position: absolute;
-  top: 26%;
-  left: 36%;
-  width: 630px;
+  top: 41%;
+  left: 380px;
+  width: 550px;
+  align-items: center;
+  text-align: center;
+  /* text-align: justify; */
 }
 
 .banar-title h3{

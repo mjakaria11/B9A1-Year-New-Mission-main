@@ -14,7 +14,7 @@ header{
   margin: 0px auto;
   margin-top: 40px;
 }
-.banner-card{
+.banner-image{
   position: relative;
 }
 .banner-card img{
@@ -26,7 +26,6 @@ header{
   top: 26%;
   left: 36%;
   width: 630px;
-
 }
 
 .banar-title h3{
@@ -51,21 +50,18 @@ main{
 }
 .discount-title{
   color: #F00;
-  font-family: 'Inter', sans-serif;
   font-size: 88px;
   margin-bottom: 30px;
   font-weight: 700;
 }
 .discount-detail{
   color: #F00;
-  font-family: Inter;
   font-size: 24px;
   font-weight: 500;
   margin-bottom: 15px;
 }
 .descount-sals{
   color: #070211;
-  font-family: Inter;
   font-size: 48px;
   font-weight: 700;
   margin-bottom: 40px;
@@ -112,7 +108,6 @@ main{
 
 .btn-primary{
   color: #FFF;
-  font-family: Inter;
   margin-left: 6px;
   margin-top: 10px;
   font-size: 20px;

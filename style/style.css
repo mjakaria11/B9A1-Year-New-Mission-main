@@ -144,8 +144,10 @@ main{
   display: flex;
   justify-content: space-between;
   margin: 0 auto;
+  text-align: justify;
   align-items: center;
-  gap: 50px;
+  text-align: left;
+  gap: 60px;
   margin-top: 80px;
 }
 .welcome-year{
@@ -200,7 +202,6 @@ main{
   color: #F00;
   font-family: Inter;
   font-size: 24px;
-  font-style: normal;
   font-weight: 500;
   margin-top: 80px;
  }
@@ -208,9 +209,7 @@ main{
   color: #070211;
   font-family: Merriweather;
   font-size: 48px;
-  font-style: normal;
   font-weight: 900;
-  line-height: normal;
   text-transform: capitalize;
   margin-top: 15px;
  }
@@ -219,7 +218,6 @@ main{
   color: rgba(7, 2, 17, 0.60);
   font-family: Inter;
   font-size: 20px;
-  font-style: normal;
   font-weight: 400;
   line-height: 32px;
   margin-top: 15px;
